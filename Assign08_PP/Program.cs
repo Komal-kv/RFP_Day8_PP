@@ -2,3 +2,6 @@
 
 using Assign08_PP;
 Console.WriteLine("Welcome to Line computation comparison Program");
+
+Class1.LineComputation();
+
